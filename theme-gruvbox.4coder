@@ -1,5 +1,3 @@
-// Created by: Casey Muratori
-
 name = "Gruvbox";
 
 Back = 0xFF1D2021;
