@@ -1,5 +1,8 @@
 ## Gruvbox Theme for 4coder
 
+# WARNING
+This colorscheme does not work for newer versions of 4coder like 4.1.6.
+
 ![](first_gruvbox_screenshot.png)
 
 **NOTE: Github thinks 4coder theme files are Roff files apparently.**
