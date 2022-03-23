@@ -1,54 +1,51 @@
-name = "Gruvbox";
+defcolor_name = "Gruvbox";
 
-Back = 0xFF1D2021;
-Margin = Back;
-Margin_Hover = Back;
-Margin_Active = Back;
-List_Item = Margin;
-List_Item_Hover = Margin_Hover;
-List_Item_Active = 0xFF665C54;
-Default = 0xFFEBDBB2;
-Cursor = Default;
-At_Cursor = Back;
-Highlight_Cursor_Line = 0xFF121E12;
-Highlight = 0xFF703419;
-Mark = 0xFF808080;
-// Default = 0xFFFBF1C7;
-At_Highlight = 0xFFCDAA7D;
-Comment = 0xFF928374;
-Keyword = 0xFFFB4934;
-Str_Constant = 0xFFB8BB26;
-Char_Constant = Str_Constant;
-Int_Constant = 0xFFD3869B;
-Float_Constant = Str_Constant;
-Bool_Constant = Str_Constant;
-Include = Str_Constant;
-Preproc = 0xFF8EC07C;
-Special_Character = 0xFFFF0000;
-Ghost_Character = 0xFF5B4D3C;
+defcolor_back = 0xff1d2021;
+defcolor_margin = defcolor_back;
+defcolor_margin_hover = defcolor_back;
+defcolor_margin_active = defcolor_back;
+defcolor_list_item = defcolor_margin;
+defcolor_list_item_hover = defcolor_margin_hover;
+defcolor_list_item_active = 0xff665c54;
+defcolor_text_default = 0xffebdbb2;
+defcolor_cursor = defcolor_default;
+defcolor_at_cursor = defcolor_back;
+defcolor_highlight_cursor_line = 0xff121e12;
+defcolor_highlight = 0xff703419;
+defcolor_mark = 0xff808080;
+// defcolor_default = 0xfffbf1c7;
+defcolor_at_highlight = 0xffcdaa7d;
+defcolor_comment = 0xff928374;
+defcolor_keyword = 0xfffb4934;
+defcolor_str_constant = 0xffb8bb26;
+defcolor_char_constant = defcolor_str_constant;
+defcolor_int_constant = 0xffd3869b;
+defcolor_float_constant = defcolor_str_constant;
+defcolor_bool_constant = defcolor_str_constant;
+defcolor_include = defcolor_str_constant;
+defcolor_preproc = 0xff8ec07c;
+defcolor_special_character = 0xffff0000;
+defcolor_ghost_character = 0xff5b4d3c;
 
-Paste = 0xFFFFBB00;
+defcolor_paste = 0xffffbb00;
 
-Undo = 0xFF80005D;
+defcolor_undo = 0xff80005d;
 
-Highlight_Junk = 0xFF3A0000;
-Highlight_White = 0xFF003A3A;
+defcolor_highlight_junk = 0xff3a0000;
+defcolor_highlight_white = 0xff003a3a;
 
-Bar = 0xFFA89984;
-Bar_Active = 0xFFA8A8A8;
-Base = 0xFF000000;
-Pop1 = 0xFF03CF0C;
-Pop2 = 0xFFFF0000;
+defcolor_bar = 0xffa89984;
+defcolor_bar_active = 0xffa8a8a8;
+defcolor_base = 0xff000000;
+defcolor_pop1 = 0xff03cf0c;
+defcolor_pop2 = 0xffff0000;
 
-Back_Cycle_1 = 0x0CA00000;
-Back_Cycle_2 = 0x0800A000;
-Back_Cycle_3 = 0x080000A0;
-Back_Cycle_4 = 0x08A0A000;
-Text_Cycle_1 = 0xFFA00000;
-Text_Cycle_2 = 0xFF00A000;
-Text_Cycle_3 = 0xFF0020B0;
-Text_Cycle_4 = 0xFFA0A000;
-
-
-
+defcolor_back_cycle_1 = 0x0ca00000;
+defcolor_back_cycle_2 = 0x0800a000;
+defcolor_back_cycle_3 = 0x080000a0;
+defcolor_back_cycle_4 = 0x08a0a000;
+defcolor_text_cycle_1 = 0xffa00000;
+defcolor_text_cycle_2 = 0xff00a000;
+defcolor_text_cycle_3 = 0xff0020b0;
+defcolor_text_cycle_4 = 0xffa0a000;
 
